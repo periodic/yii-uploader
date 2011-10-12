@@ -81,4 +81,6 @@ File uploader stores files on the local filesystem, and then publishes them as a
 
 ## Examples
 
+Descriptions of FileBehavior and ImageBehavior coming soon.
+
 TODO
